@@ -20,7 +20,7 @@ public class Main {
         
         ListaRedes lr= new ListaRedes();
 
-        t1 = new Twitter(1000, "Covid:  no hemos llegado al tope de la curva limite", new Date(), "admin", "admin");
+        t1 = new Twitter(1000, "Covid:  no hemos llegado al tope de la curva limite 12", new Date(), "admin", "admin");
         t2 = new Twitter(1001, "Estado de guerra en EEUU", new Date(), "usu1", "123");
         t3 = new Twitter(1002, "Chile: Su gran discusión sobre retiro de AFP", new Date(), "usu2", "456");
         i1 = new Instagram(5000, "Haciendo la tarea de Programación II", true, "root", "root");
